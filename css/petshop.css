@@ -1,0 +1,73 @@
+*{
+    box-sizing: border-box;
+    margin: 0px;
+    padding:0px;
+}
+header{
+    position: fixed;
+    width: 100%;
+}
+.header1{
+
+    background-color: black;
+    width: 100%;
+    color: white;
+    display: flex;
+    justify-content: space-between;
+    padding-left: 100px;
+}
+select{
+    background-color: black;
+    color: white;
+    border-color: black;
+    margin-right: 50px;
+}
+.header2{
+    background-color: #F0A83E;
+    height: 62px;
+    display: flex;
+    justify-content: space-between;
+    padding-left: 50px;
+    align-items: center;
+}
+ul{
+    display: flex;
+    margin-right: 40px;
+}
+li{
+    margin-left: 50px;
+}
+a{
+    color: white;
+}
+.banner{
+    background-image: url(../img/bowl-and-pet-daities-on-green-background\ 1.jpg);
+    background-size: cover;
+    height: 600px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.article1{
+    display: flex;
+    align-items: center;
+    background-color: white;
+    font-size: 30px;
+    border-radius: 10px;
+    width: 365px;
+    height: 54px;
+    padding-left: 20px;
+    margin-left: 70%;
+}
+p{
+    font-size: 20px;
+    margin-left: 70%;
+}
+button{
+    background-color: #F0A83E;
+    border-color: #F0A83E;
+    width: 141px;
+    height: 49px;
+    margin-left: 70%;
+}
