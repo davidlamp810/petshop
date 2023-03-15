@@ -71,3 +71,191 @@ button{
     height: 49px;
     margin-left: 70%;
 }
+.intermedio{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.loguito2{
+    width: 100px;
+    margin-top: 30px;
+}
+h2{
+    font-size: 50px;
+    color: #3C2313;
+}
+.menu-productos{
+    font-size: 17px;
+    color: #666666;
+}
+.productos-destacados{
+    display: flex;
+    justify-content: space-around;
+}
+.producto{
+    display: flex;
+    background-color: #FBFAF6;
+    width: 29%;
+    height: 320px;
+    align-items: center;
+    flex-direction: column;
+}
+.nombre{
+    font-size: 18px;
+    color:#3C2313;
+    font-weight: bold;
+}
+.precio{
+    font-size: 18px;
+    color:#F0A83E;
+}
+.contactanos{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+h4{
+    font-size: 35px;
+    font-weight: bolder;
+    color:#3C2313;
+    margin-top: 80px;
+    margin-bottom: 30px;
+}
+form{
+}
+.nombres{
+    background-color: #3C2313;
+    color: #FBFAF6;
+    border: #3C2313;
+    border-radius: 25px;
+    width: 540px;
+    height: 60px;
+    padding-left: 30px;
+    padding-top: 20px;
+    margin-bottom: 15px;
+}
+.correo{
+    background-color: #3C2313;
+    color: #FBFAF6;
+    border: #3C2313;
+    border-radius: 25px;
+    width: 540px;
+    height: 60px;
+    padding-left: 30px;
+    padding-top: 20px;
+    margin-bottom: 15px;
+}
+.telefono{
+    background-color: #3C2313;
+    color: #FBFAF6;
+    border: #3C2313;
+    border-radius: 25px;
+    width: 540px;
+    height: 60px;
+    padding-left: 30px;
+    padding-top: 20px;
+    margin-bottom: 60px;
+}
+input{
+    background-color: #3C2313;
+    border-color: #3C2313;
+}
+.enviar-borrar{
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: center;
+}
+.enviar{
+    background-color:#F0A83E;
+    border-color: #F0A83E;
+    color:#FBFAF6;
+    border-radius: 25px;
+    font-size: 18px;
+    width: 150px;
+    height: 40px;
+    margin-left: 10px;
+}
+.borrar{
+    background-color:#666666;
+    border-color: #666666;
+    color:#FBFAF6;
+    border-radius: 25px;
+    font-size: 18px;
+    width: 150px;
+    height: 40px;
+    margin-right: 10px;
+}
+.suscribete{
+    display: flex;
+    align-items: center;
+    background-color: #F0A83E;
+    width: 100%;
+    height: 80px;
+    margin-top: 140px;
+    padding-left: 40px;
+}
+h3{
+    font-size: 23px;
+    color:#FBFAF6;
+    font-weight: bold;
+}
+.email1{
+    display:flex;
+}
+.email{
+    background-color: #FBFAF6;
+    color:#666666;
+    padding-left: 20px;
+    padding-top: 13px;
+    margin-left: 550px;
+    width: 400px;
+    height: 45px;
+    border-radius: 25px;
+}
+.email2{
+    background-color: #FBFAF6;
+    border-color: #FBFAF6;
+    border-radius: 25px;
+}
+.suscribirme{
+    border-radius: 20px;
+    width: 100px;
+    margin-right: 70px;
+    margin-left: 15px;
+    color:#FBFAF6;
+}
+.datos{
+    background-color: #3C2313;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-left: 90px;
+    padding-right: 60px;
+    padding-bottom: 30px;
+}
+.datos1{
+    display: flex;
+    flex-direction: column;
+}
+.datos-1{
+    padding-top: 30px;
+}
+.datos2{
+    position: absolute;
+    margin-left: 90px;
+}
+.datos-2{
+    padding-top: 50px;
+}
+h5{
+    color:#666666;
+}
+h6{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #222222;
+    height: 20px;
+    color: white;
+    font-size: 12px;
+}
